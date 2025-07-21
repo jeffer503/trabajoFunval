@@ -1,3 +1,4 @@
+
 function restar(a, b) {
   return a - b;
 }
@@ -29,3 +30,8 @@ switch (opcion) {
   default:
     alert("Opción no válida.");
 }
+
+let suma = (a, b) => a + b;
+
+let multiplicar = (a, b) => a * b;
+
